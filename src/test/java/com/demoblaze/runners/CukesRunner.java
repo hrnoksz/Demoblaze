@@ -13,7 +13,7 @@ import org.junit.runner.RunWith;
         features = "src/test/resources/features/test.feature",
         glue = "com/demoblaze/step_definitions",
         dryRun = true,
-        tags = ""
+        tags = "@wip"
 )
 
 public class CukesRunner {
